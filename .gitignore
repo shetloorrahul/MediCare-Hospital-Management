@@ -1,0 +1,18 @@
+# ===== Java (Spring Boot) =====
+**/target/
+**/.classpath
+**/.project
+**/.settings/
+
+# ===== Node / React =====
+**/node_modules/
+**/build/
+**/dist/
+
+# ===== IDE =====
+.vscode/
+.idea/
+
+# ===== Logs =====
+*.log
+
